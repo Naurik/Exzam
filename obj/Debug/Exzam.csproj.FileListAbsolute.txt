@@ -1,0 +1,10 @@
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\bin\Debug\Exzam.exe.config
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\bin\Debug\Exzam.exe
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\bin\Debug\Exzam.pdb
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\obj\Debug\Exzam.csprojAssemblyReference.cache
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\obj\Debug\Exzam.csproj.CoreCompileInputs.cache
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\obj\Debug\Exzam.exe
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\obj\Debug\Exzam.pdb
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\bin\Debug\MyLib.dll
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\bin\Debug\MyLib.pdb
+c:\users\машимовн.corp\source\repos\Exzam\Exzam\obj\Debug\Exzam.csproj.CopyComplete
